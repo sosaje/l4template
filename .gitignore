@@ -12,6 +12,8 @@
 *.cb2
 .*.lb
 l4proj*.pdf
+*.pdf
+*.yaml
 
 test/
 
